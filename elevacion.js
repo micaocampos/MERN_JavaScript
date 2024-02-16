@@ -1,4 +1,13 @@
-
+// GIVEN
+//console.log(example);
+//var example = "I'm the example!";
+//console.log(example);
+//AFTER HOISTING BY THE INTERPRETER
+// var example;
+// console.log(example); // logs undefined
+// example = "I'm the example!";
+//console.log(example);
+//let example = "I'm the example!";   //cuando uso let da error pero con var no
 //console.log(hello);                                   
 var hello = 'world';  //prediccion=imprime undefined
 //realidad=undefined
